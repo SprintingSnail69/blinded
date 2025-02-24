@@ -1,6 +1,8 @@
 # Bl!nded
 I made this game a LONG time ago in Scratch. 
 <br>
+
+<a href="Bl!nded.html" download>Play Game</a>
 Thanks to [Forkphorus's Scratch Converter](https://forkphorus.github.io/packager/) <br>
 for the converting. 
 <br> 
